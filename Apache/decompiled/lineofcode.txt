@@ -1,0 +1,140 @@
+
+ProjectBoundaryForAnalysis-01
+     100 files     126 text files.
+classified 126 filesDuplicate file check 126 files (122 known unique)Unique:      100 files                                               126 unique files.                              
+Counting:  100       0 files ignored.
+
+github.com/AlDanial/cloc v 1.74  T=0.32 s (395.9 files/s, 33776.2 lines/s)
+-------------------------------------------------------------------------------
+Language                     files          blank        comment           code
+-------------------------------------------------------------------------------
+Java                           126           1456            378           8915
+-------------------------------------------------------------------------------
+SUM:                           126           1456            378           8915
+-------------------------------------------------------------------------------
+
+ProjectBoundaryForAnalysis-02
+      87 text files.
+classified 87 files      87 unique files.                              
+       0 files ignored.
+
+github.com/AlDanial/cloc v 1.74  T=0.25 s (352.6 files/s, 24540.4 lines/s)
+-------------------------------------------------------------------------------
+Language                     files          blank        comment           code
+-------------------------------------------------------------------------------
+Java                            87            678            261           5116
+-------------------------------------------------------------------------------
+SUM:                            87            678            261           5116
+-------------------------------------------------------------------------------
+
+ProjectBoundaryForAnalysis-03
+     100 files     200 files     300 files     400 files     468 text files.
+classified 468 filesDuplicate file check 468 files (374 known unique)Unique:      100 files                                          Unique:      200 files                                          Unique:      300 files                                               468 unique files.                              
+Counting:  100Counting:  200Counting:  300Counting:  400       0 files ignored.
+
+github.com/AlDanial/cloc v 1.74  T=1.19 s (393.1 files/s, 21453.8 lines/s)
+-------------------------------------------------------------------------------
+Language                     files          blank        comment           code
+-------------------------------------------------------------------------------
+Java                           468           3357           1404          20780
+-------------------------------------------------------------------------------
+SUM:                           468           3357           1404          20780
+-------------------------------------------------------------------------------
+
+ProjectBoundaryForAnalysis-04
+      45 text files.
+classified 45 files      45 unique files.                              
+       0 files ignored.
+
+github.com/AlDanial/cloc v 1.74  T=0.17 s (268.4 files/s, 64653.9 lines/s)
+-------------------------------------------------------------------------------
+Language                     files          blank        comment           code
+-------------------------------------------------------------------------------
+Java                            45            784            135           9919
+-------------------------------------------------------------------------------
+SUM:                            45            784            135           9919
+-------------------------------------------------------------------------------
+
+ProjectBoundaryForAnalysis-05
+     100 files     126 text files.
+classified 126 filesDuplicate file check 126 files (120 known unique)Unique:      100 files                                               126 unique files.                              
+Counting:  100       0 files ignored.
+
+github.com/AlDanial/cloc v 1.74  T=0.37 s (344.1 files/s, 52738.3 lines/s)
+-------------------------------------------------------------------------------
+Language                     files          blank        comment           code
+-------------------------------------------------------------------------------
+Java                           126           1938            378          16998
+-------------------------------------------------------------------------------
+SUM:                           126           1938            378          16998
+-------------------------------------------------------------------------------
+
+ProjectBoundaryForAnalysis-06
+      40 text files.
+classified 40 files      40 unique files.                              
+       0 files ignored.
+
+github.com/AlDanial/cloc v 1.74  T=0.15 s (264.6 files/s, 50223.9 lines/s)
+-------------------------------------------------------------------------------
+Language                     files          blank        comment           code
+-------------------------------------------------------------------------------
+Java                            40            682           1263           5646
+-------------------------------------------------------------------------------
+SUM:                            40            682           1263           5646
+-------------------------------------------------------------------------------
+
+ProjectBoundaryForAnalysis-07
+     100 files     200 files     300 files     400 files     500 files     600 files     700 files     800 files     900 files    1000 files    1100 files    1200 files    1300 files    1400 files    1500 files    1600 files    1700 files    1800 files    1900 files    2000 files    2006 text files.
+classified 2006 filesDuplicate file check 2006 files (1838 known unique)Unique:      100 files                                          Unique:      200 files                                          Unique:      300 files                                          Unique:      400 files                                          Unique:      500 files                                          Unique:      600 files                                          Unique:      700 files                                          Unique:      800 files                                          Unique:      900 files                                          Unique:     1000 files                                          Unique:     1100 files                                          Unique:     1200 files                                          Unique:     1300 files                                          Unique:     1400 files                                          Unique:     1500 files                                          Unique:     1600 files                                          Unique:     1700 files                                          Unique:     1800 files                                              2006 unique files.                              
+Counting:  100Counting:  200Counting:  300Counting:  400Counting:  500Counting:  600Counting:  700Counting:  800Counting:  900Counting:  1000Counting:  1100Counting:  1200Counting:  1300Counting:  1400Counting:  1500Counting:  1600Counting:  1700Counting:  1800Counting:  1900Counting:  2000       1 file ignored.
+
+github.com/AlDanial/cloc v 1.74  T=5.61 s (357.5 files/s, 69667.4 lines/s)
+-------------------------------------------------------------------------------
+Language                     files          blank        comment           code
+-------------------------------------------------------------------------------
+Java                          2005          47679          31205         311856
+-------------------------------------------------------------------------------
+SUM:                          2005          47679          31205         311856
+-------------------------------------------------------------------------------
+
+ProjectBoundaryForAnalysis-08
+     100 files     200 files     225 text files.
+classified 225 filesDuplicate file check 225 files (217 known unique)Unique:      100 files                                          Unique:      200 files                                               225 unique files.                              
+Counting:  100Counting:  200       0 files ignored.
+
+github.com/AlDanial/cloc v 1.74  T=0.56 s (403.3 files/s, 34965.4 lines/s)
+-------------------------------------------------------------------------------
+Language                     files          blank        comment           code
+-------------------------------------------------------------------------------
+Java                           225           2276            675          16558
+-------------------------------------------------------------------------------
+SUM:                           225           2276            675          16558
+-------------------------------------------------------------------------------
+
+ProjectBoundaryForAnalysis-09
+     100 files     200 files     300 files     400 files     500 files     600 files     700 files     800 files     900 files    1000 files    1029 text files.
+classified 1029 filesDuplicate file check 1029 files (935 known unique)Unique:      100 files                                          Unique:      200 files                                          Unique:      300 files                                          Unique:      400 files                                          Unique:      500 files                                          Unique:      600 files                                          Unique:      700 files                                          Unique:      800 files                                          Unique:      900 files                                              1029 unique files.                              
+Counting:  100Counting:  200Counting:  300Counting:  400Counting:  500Counting:  600Counting:  700Counting:  800Counting:  900Counting:  1000       0 files ignored.
+
+github.com/AlDanial/cloc v 1.74  T=2.70 s (380.5 files/s, 50075.1 lines/s)
+-------------------------------------------------------------------------------
+Language                     files          blank        comment           code
+-------------------------------------------------------------------------------
+Java                          1029          13424           3348         118661
+-------------------------------------------------------------------------------
+SUM:                          1029          13424           3348         118661
+-------------------------------------------------------------------------------
+
+ProjectBoundaryForAnalysis-10
+     100 files     200 files     204 text files.
+classified 204 filesDuplicate file check 204 files (198 known unique)Unique:      100 files                                               204 unique files.                              
+Counting:  100Counting:  200       0 files ignored.
+
+github.com/AlDanial/cloc v 1.74  T=0.51 s (400.6 files/s, 32054.8 lines/s)
+-------------------------------------------------------------------------------
+Language                     files          blank        comment           code
+-------------------------------------------------------------------------------
+Java                           204           2268            612          13442
+-------------------------------------------------------------------------------
+SUM:                           204           2268            612          13442
+-------------------------------------------------------------------------------
